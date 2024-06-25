@@ -1,6 +1,7 @@
 c:\users\anelka md\documents\visual studio 2015\Projects\Exercice Cours\Exercice Cours\bin\Debug\Exercice Cours.exe.config
 c:\users\anelka md\documents\visual studio 2015\Projects\Exercice Cours\Exercice Cours\bin\Debug\Exercice Cours.exe
 c:\users\anelka md\documents\visual studio 2015\Projects\Exercice Cours\Exercice Cours\bin\Debug\Exercice Cours.pdb
-c:\users\anelka md\documents\visual studio 2015\Projects\Exercice Cours\Exercice Cours\obj\Debug\Exercice Cours.csprojResolveAssemblyReference.cache
 c:\users\anelka md\documents\visual studio 2015\Projects\Exercice Cours\Exercice Cours\obj\Debug\Exercice Cours.exe
 c:\users\anelka md\documents\visual studio 2015\Projects\Exercice Cours\Exercice Cours\obj\Debug\Exercice Cours.pdb
+C:\Users\Anelka MD\Documents\Visual Studio 2015\Projects\Exercice Cours\Exercice Cours\obj\Debug\Exercice Cours.csproj.AssemblyReference.cache
+C:\Users\Anelka MD\Documents\Visual Studio 2015\Projects\Exercice Cours\Exercice Cours\obj\Debug\Exercice Cours.csproj.CoreCompileInputs.cache

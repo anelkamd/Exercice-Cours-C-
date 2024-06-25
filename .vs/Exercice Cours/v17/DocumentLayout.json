@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anelka MD\\Documents\\Visual Studio 2015\\Projects\\Exercice Cours\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E05C4F59-8496-41FD-A747-4854B71819D2}|Exercice Cours\\Exercice Cours.csproj|c:\\users\\anelka md\\documents\\visual studio 2015\\projects\\exercice cours\\exercice cours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05C4F59-8496-41FD-A747-4854B71819D2}|Exercice Cours\\Exercice Cours.csproj|solutionrelative:exercice cours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anelka MD\\Documents\\Visual Studio 2015\\Projects\\Exercice Cours\\Exercice Cours\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice Cours\\Program.cs",
+              "ToolTip": "C:\\Users\\Anelka MD\\Documents\\Visual Studio 2015\\Projects\\Exercice Cours\\Exercice Cours\\Program.cs",
+              "RelativeToolTip": "Exercice Cours\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:20:07.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
