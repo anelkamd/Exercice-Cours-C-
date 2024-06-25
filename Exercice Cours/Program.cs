@@ -18,15 +18,32 @@ namespace Exercice_Cours
             //Console.WriteLine("Votre Prenom : " + prenom);
             //Console.WriteLine("Votre Age : " + age);
 
-            int Nombre1 = 12;
-            int Nombre2 = 22;
-            double div;
-            div = Nombre1 / Nombre2;
+            //int Nombre1 = 12;
+            //int Nombre2 = 22;
+            //int Somme = Nombre1 + Nombre2;
+            //Console.WriteLine("La Somme de " + Nombre1 + " Et "+ Nombre2 + " = "+Somme);
+            //Console.WriteLine("=========================");
+            //double Nombre1 = 12;
+            //double Nombre2 = 22;
+            //double div;
+            //div = Nombre1 / Nombre2;
 
+            //Console.WriteLine("La division de " + Nombre1 + " / " + Nombre2 + " = " + div);
+
+            int Nombre1 = 10;
+            int Nombre2 = 15;
+            int longueur = 15;
+            int largeur = 3; 
             int Somme = Nombre1 + Nombre2;
-            Console.WriteLine("La Somme de " + Nombre1 + " Et "+ Nombre2 + " = "+Somme);
-            Console.WriteLine("=========================");
-            Console.WriteLine("La division de " + Nombre1 + " / " + Nombre2 + " = " + div);
+            int surface = longueur * largeur;
+            int Produit = Nombre1 * Nombre2; 
+
+            Console.WriteLine("La Somme de " + Nombre1+" Et " + Nombre2 + " = " + Somme);
+            Console.WriteLine("===================================");
+            Console.WriteLine("Le Produit de " + Nombre1 + " Et " + Nombre2 + " = " + Produit);
+            Console.WriteLine("===================================");
+            Console.WriteLine("La surface d'un rectangle de " + longueur + " Comme Longueur " + " Et " + largeur + " Largeur " + " = " + surface);
+
 
 
 
