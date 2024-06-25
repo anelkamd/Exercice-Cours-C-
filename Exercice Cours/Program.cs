@@ -15,6 +15,7 @@ namespace Exercice_Cours
             Console.WriteLine("C'est un cours pour tous");
             Console.WriteLine("Chaque etudiant doit arriver a afficher ce message");
             Console.ReadLine();
+            // Coding By Anelka MD
         }
     }
 }
