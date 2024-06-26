@@ -53,10 +53,20 @@ namespace Exercice_Cours
 
             //Console.WriteLine(ExaDate);
 
-            Console.WriteLine("Saisir votre nom");
-            String nom = Console.ReadLine();
+            //Console.WriteLine("Saisir votre nom");
+            //String nom = Console.ReadLine();
 
-            Console.WriteLine("Votre Nom c'est : " + nom);
+            //Console.WriteLine("Votre Nom c'est : " + nom);
+
+            int jours, mois, annee;
+
+            Console.WriteLine("Votre jour de naissance");
+            jours = Console.ReadLine();
+            Console.WriteLine("Votre Mois de naissance");
+            mois = Console.ReadLine();
+            Console.WriteLine("votre annee de naissance");
+
+            //Console.WriteLine("votre date de naissance c'est " + jours + "/" + mois + "/" + annee);
 
             Console.ReadLine();
             // Coding By Anelka MD
