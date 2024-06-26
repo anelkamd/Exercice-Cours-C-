@@ -77,15 +77,15 @@ namespace Exercice_Cours
             Console.WriteLine("Entrez Cote de sur 20");
             Notes = Convert.ToInt32(Console.ReadLine());
 
-            if (Notes > 18)
+            if (Notes >= 18  )
             {
                 Console.WriteLine("Grade A EXCELENT ");
             }
-            else if (Notes > 16 )
+            else if (Notes >= 16 )
             {
                 Console.WriteLine("Grade B TRES BIEN");
             }
-            else if (Notes > 14)
+            else if (Notes >= 14)
             {
                 Console.WriteLine("Grade C BIEN");
             }
@@ -93,21 +93,21 @@ namespace Exercice_Cours
             {
                 Console.WriteLine("Grade D ASSEZ BIEN");
             }
-            else if (Notes >= 10)
+            else if (Notes > 10)
             {
                 Console.WriteLine("Grade E PASSABLE");
             }
-            else if (Notes <= 10)
+            else if (Notes >= 8)
             {
                 Console.WriteLine("Grade F INSUFFISANT");
             }
-            else if (Notes <= 8)
+            else if (Notes <= 7)
             {
                 Console.WriteLine("Grade G INSATISFAISANT");
             } else
             {
-                Console.WriteLine("Note indisponible");
-            };
+
+            }
 
             Console.ReadLine();
             // Coding By Anelka MD
