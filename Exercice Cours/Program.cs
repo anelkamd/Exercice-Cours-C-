@@ -56,7 +56,7 @@ namespace Exercice_Cours
             Console.WriteLine("Saisir votre nom");
             String nom = Console.ReadLine();
 
-
+            Console.WriteLine("Votre Nom c'est : " + nom)
 
             Console.ReadLine();
             // Coding By Anelka MD
