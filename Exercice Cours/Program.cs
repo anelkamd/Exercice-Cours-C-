@@ -46,6 +46,11 @@ namespace Exercice_Cours
 
             double pourcentage = 14.5;
             int moyenne = (int)pourcentage;
+
+            String dates = "1995";
+            int ExaDate = Convert.ToInt16(dates);
+
+            Console.WriteLine(ExaDate);
             
 
 
