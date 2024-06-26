@@ -42,7 +42,7 @@ namespace Exercice_Cours
             Console.WriteLine("===================================");
             Console.WriteLine("Le Produit de " + Nombre1 + " Et " + Nombre2 + " = " + Produit);
             Console.WriteLine("===================================");
-            Console.WriteLine("La surface d'un rectangle de " + longueur + " Comme Longueur " + " Et " + largeur + " Largeur " + " = " + surface);
+            Console.WriteLine("La surface d'un rectangle de " + longueur + " Comme Longueur " + " Et " + largeur + " Comme Largeur " + " = " + surface);
 
 
 
