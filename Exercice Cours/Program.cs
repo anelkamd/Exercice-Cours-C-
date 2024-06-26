@@ -58,20 +58,56 @@ namespace Exercice_Cours
 
             //Console.WriteLine("Votre Nom c'est : " + nom);
 
-            String jours, mois, annee;
+            //String jours, mois, annee;
 
 
-            Console.WriteLine("Votre jour de naissance");
-            jours = Console.ReadLine();
-            Console.WriteLine("Votre Mois de naissance");
-            mois = Console.ReadLine();
-            Console.WriteLine("votre annee de naissance");
-            annee = Console.ReadLine();
+            //Console.WriteLine("Votre jour de naissance");
+            //jours = Console.ReadLine();
+            //Console.WriteLine("Votre Mois de naissance");
+            //mois = Console.ReadLine();
+            //Console.WriteLine("votre annee de naissance");
+            //annee = Console.ReadLine();
 
-            Console.WriteLine("````````````````````````````");
-            Console.WriteLine("votre date de naissance c'est le " + jours + "/" + mois + "/" + annee);
-            Console.WriteLine("============================");
-            Console.WriteLine("votre date de naissance c'est le " + jours + "-" + mois + "-" + annee);
+            //Console.WriteLine("````````````````````````````");
+            //Console.WriteLine("votre date de naissance c'est le " + jours + "/" + mois + "/" + annee);
+            //Console.WriteLine("============================");
+            //Console.WriteLine("votre date de naissance c'est le " + jours + "-" + mois + "-" + annee);
+
+            int Notes;
+            Console.WriteLine("Entrez Cote de sur 20");
+            Notes = Convert.ToInt32(Console.ReadLine());
+
+            if (Notes > 18)
+            {
+                Console.WriteLine("Grade A EXCELENT ");
+            }
+            else if (Notes > 16 )
+            {
+                Console.WriteLine("Grade B TRES BIEN");
+            }
+            else if (Notes > 14)
+            {
+                Console.WriteLine("Grade C BIEN");
+            }
+            else if (Notes > 12)
+            {
+                Console.WriteLine("Grade D ASSEZ BIEN");
+            }
+            else if (Notes >= 10)
+            {
+                Console.WriteLine("Grade E PASSABLE");
+            }
+            else if (Notes <= 10)
+            {
+                Console.WriteLine("Grade F INSUFFISANT");
+            }
+            else if (Notes <= 8)
+            {
+                Console.WriteLine("Grade G INSATISFAISANT");
+            } else
+            {
+                Console.WriteLine("Note indisponible");
+            };
 
             Console.ReadLine();
             // Coding By Anelka MD
