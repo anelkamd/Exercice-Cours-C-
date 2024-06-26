@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -44,14 +45,16 @@ namespace Exercice_Cours
             //Console.WriteLine("===================================");
             //Console.WriteLine("La surface d'un rect
 
-            double pourcentage = 14.5;
-            int moyenne = (int)pourcentage;
+            //double pourcentage = 14.5;
+            //int moyenne = (int)pourcentage;
 
-            String dates = "1995";
-            int ExaDate = Convert.ToInt16(dates);
+            //String dates = "1995";
+            //int ExaDate = Convert.ToInt16(dates);
 
-            Console.WriteLine(ExaDate);
-            
+            //Console.WriteLine(ExaDate);
+
+            Console.WriteLine("Saisir votre nom");
+            String nom = Console.ReadLine();
 
 
 
