@@ -30,23 +30,23 @@ namespace Exercice_Cours
 
             //Console.WriteLine("La division de " + Nombre1 + " / " + Nombre2 + " = " + div);
 
-            int Nombre1 = 10;
-            int Nombre2 = 15;
-            int longueur = 15;
-            int largeur = 3; 
-            int Somme = Nombre1 + Nombre2;
-            int surface = longueur * largeur;
-            int Produit = Nombre1 * Nombre2; 
+            //int Nombre1 = 10;
+            //int Nombre2 = 15;
+            //int longueur = 15;
+            //int largeur = 3; 
+            //int Somme = Nombre1 + Nombre2;
+            //int surface = longueur * largeur;
+            //int Produit = Nombre1 * Nombre2; 
 
-            Console.WriteLine("La Somme de " + Nombre1+" Et " + Nombre2 + " = " + Somme);
-            Console.WriteLine("===================================");
-            Console.WriteLine("Le Produit de " + Nombre1 + " Et " + Nombre2 + " = " + Produit);
-            Console.WriteLine("===================================");
-            Console.WriteLine("La surface d'un rectangle de " + longueur + " Comme Longueur " + " Et " + largeur + " Comme Largeur " + " = " + surface);
+            //Console.WriteLine("La Somme de " + Nombre1+" Et " + Nombre2 + " = " + Somme);
+            //Console.WriteLine("===================================");
+            //Console.WriteLine("Le Produit de " + Nombre1 + " Et " + Nombre2 + " = " + Produit);
+            //Console.WriteLine("===================================");
+            //Console.WriteLine("La surface d'un rect
 
-
-
-
+            double pourcentage = 14.5;
+            int moyenne = (int)pourcentage;
+            
 
 
 
