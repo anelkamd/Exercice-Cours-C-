@@ -73,44 +73,54 @@ namespace Exercice_Cours
             //Console.WriteLine("============================");
             //Console.WriteLine("votre date de naissance c'est le " + jours + "-" + mois + "-" + annee);
 
-            int Notes;
-            Console.WriteLine("Entrez Cote de sur 20");
-            Notes = Convert.ToInt32(Console.ReadLine());
+            //int Notes;
+            //Console.WriteLine("Entrez Cote de sur 20");
+            //Notes = Convert.ToInt32(Console.ReadLine());
 
-            if (Notes >= 18  )
-            {
-                Console.WriteLine("Grade A EXCELENT ");
-            }
-            else if (Notes >= 16 )
-            {
-                Console.WriteLine("Grade B TRES BIEN");
-            }
-            else if (Notes >= 14)
-            {
-                Console.WriteLine("Grade C BIEN");
-            }
-            else if (Notes > 12)
-            {
-                Console.WriteLine("Grade D ASSEZ BIEN");
-            }
-            else if (Notes > 10)
-            {
-                Console.WriteLine("Grade E PASSABLE");
-            }
-            else if (Notes >= 8)
-            {
-                Console.WriteLine("Grade F INSUFFISANT");
-            }
-            else if (Notes <= 7)
-            {
-                Console.WriteLine("Grade G INSATISFAISANT");
-            } else
-            {
+            //if (Notes >= 18  )
+            //{
+            //    Console.WriteLine("Grade A EXCELENT ");
+            //}
+            //else if (Notes >= 16 )
+            //{
+            //    Console.WriteLine("Grade B TRES BIEN");
+            //}
+            //else if (Notes >= 14)
+            //{
+            //    Console.WriteLine("Grade C BIEN");
+            //}
+            //else if (Notes > 12)
+            //{
+            //    Console.WriteLine("Grade D ASSEZ BIEN");
+            //}
+            //else if (Notes > 10)
+            //{
+            //    Console.WriteLine("Grade E PASSABLE");
+            //}
+            //else if (Notes >= 8)
+            //{
+            //    Console.WriteLine("Grade F INSUFFISANT");
+            //}
+            //else if (Notes <= 7)
+            //{
+            //    Console.WriteLine("Grade G INSATISFAISANT");
+            //} else
+            //{
+            //}
+            /*onsole.ReadLine();*/
+            public class Etudian
+        {
+            String matricule;
+            String nom;
+            String prenom;
 
+            public Etudian()
+            {
+                matricule = "";
+                nom = "";
+                prenom = "";
             }
-
-            Console.ReadLine();
-            // Coding By Anelka MD
         }
     }
+}
 }
